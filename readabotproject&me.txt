@@ -1,3 +1,7 @@
 I am a student and have dream to make a personalized ai. I am not
  very good at python now but my ideas and with help of gpt and
 deep seek I had made this monitoring program for now
+
+
+**This program do has flask which helps it to monitor the background tracking on the phone 
+with local host**
